@@ -17,16 +17,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=800&auto=format&fit=crop&q=80"
+      "photos/bazovskaya-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-bazovskaya-ulica/",
+    "photo": "photos/bazovskaya-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-bazovskaya-ulica-02237/",
     "source": "Циан (Собственник)",
     "description": "Сдается от собственника без комиссии! Новый современный дом 2024 года постройки. Общая площадь 41.5 м² (комната 23.5 м², просторная кухня 10.1 м²). Стиральная машина, современный ремонт, застекленная лоджия, окна в тихий двор. 10 минут пешком до станции МЦД Грачёвская.",
-    "updated_at": "2026-11-20 16:30",
-    "score": 96,
-    "photo": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 17:00",
+    "score": 96
   },
   {
     "id": "cian-bazovskaya-4k1",
@@ -46,15 +44,14 @@
     "dishwasher": false,
     "balcony": false,
     "photos": [
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502005229762-ee1b2b93e00f?w=800&auto=format&fit=crop&q=80"
+      "photos/bazovskaya-2.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-bazovskaya-ulica/",
+    "photo": "photos/bazovskaya-2.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-bazovskaya-ulica-02237/",
     "source": "Циан",
-    "description": "Самый бюджетный и близкий к транспорту вариант! Всего 3-4 минуты пешком до МЦД Грачёвская. В стоимость аренды 45 000 ₽ уже включены все коммунальные платежи и счетчики. Стиральная машина, холодильник, микроволновка, газовая колонка (всегда есть горячая вода). Рядом Базовский сквер.",
-    "updated_at": "2026-11-20 16:15",
-    "score": 98,
-    "photo": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80"
+    "description": "Самый бюджетный и близкий к транспорту вариант! Всего 3-4 минуты пешком до МЦД Грачёвская. В стоимость аренды 45 000 ₽ уже включены все коммунальные платежи и счетчики. Стиральная машина, холодильник, микроволновка. Рядом Базовский сквер.",
+    "updated_at": "2026-11-20 16:50",
+    "score": 98
   },
   {
     "id": "cian-deguninskaya-10k1",
@@ -74,16 +71,14 @@
     "dishwasher": true,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop&q=80"
+      "photos/deguninskaya-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-deguninskaya-ulica/",
+    "photo": "photos/deguninskaya-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-deguninskaya-ulica-02226/",
     "source": "Циан",
-    "description": "Квартира в ЖК бизнес-класса «Дуэт». Ровно 9 минут пешком до станции метро Селигерская! Закрытая охраняемая территория, видеонаблюдение, подземный паркинг. Качественный евроремонт, большая кухня 12 м², стиральная машина, посудомойка, кондиционер, скоростной Wi-Fi.",
-    "updated_at": "2026-11-20 16:00",
-    "score": 91,
-    "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80"
+    "description": "Квартира в ЖК бизнес-класса «Дуэт». Ровно 9 минут пешком до станции метро Селигерская! Закрытая охраняемая территория, видеонаблюдение, подземный паркинг. Качественный евроремонт, большая кухня 12 м², стиральная машина, посудомойка, кондиционер.",
+    "updated_at": "2026-11-20 16:45",
+    "score": 91
   },
   {
     "id": "cian-dubninskaya-32k6",
@@ -103,15 +98,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+      "photos/dubninskaya-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-dubninskaya-ulica/",
+    "photo": "photos/dubninskaya-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-dubninskaya-ulica-021006/",
     "source": "Циан (Собственник)",
-    "description": "Сдается от собственника БЕЗ КОМИССИИ! Высокий 16-й этаж с панорамным видом. Всего 6 минут пешком до станции МЦД Бескудниково или 15 минут до метро Яхромская. Просторная застекленная лоджия, стиральная машина, новая сантехника, развитая инфраструктура вокруг дома.",
-    "updated_at": "2026-11-20 15:45",
-    "score": 94,
-    "photo": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop&q=80"
+    "description": "Сдается от собственника БЕЗ КОМИССИИ! Высокий 16-й этаж с панорамным видом. Всего 6 минут пешком до станции МЦД Бескудниково или 15 минут до метро Яхромская. Просторная застекленная лоджия, стиральная машина, новая сантехника, развитая инфраструктура.",
+    "updated_at": "2026-11-20 16:30",
+    "score": 94
   },
   {
     "id": "cian-dubninskaya-32k9",
@@ -131,15 +125,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1502005229762-ee1b2b93e00f?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80"
+      "photos/dubninskaya-2.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-dubninskaya-ulica/",
+    "photo": "photos/dubninskaya-2.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-dubninskaya-ulica-021006/",
     "source": "Циан",
-    "description": "Отличная цена в 5 минутах пешком от МЦД Бескудниково! Уютная светлая квартира, дом серии П-44 с консьержем. Просторная остекленная лоджия, раздельный санузел, стиральная машина, вместительная кладовая/гардеробная. Окна в тихий двор.",
-    "updated_at": "2026-11-20 15:30",
-    "score": 95,
-    "photo": "https://images.unsplash.com/photo-1502005229762-ee1b2b93e00f?w=800&auto=format&fit=crop&q=80"
+    "description": "Отличная цена в 5 минутах пешком от МЦД Бескудниково! Уютная светлая квартира, дом серии П-44 с консьержем. Просторная остекленная лоджия, раздельный санузел, стиральная машина, вместительная гардеробная. Окна в тихий двор.",
+    "updated_at": "2026-11-20 16:20",
+    "score": 95
   },
   {
     "id": "cian-korovinskoe-1k1",
@@ -159,15 +152,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+      "photos/korovinskoe-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-korovinskoe-shosse/",
+    "photo": "photos/korovinskoe-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-korovinskoe-shosse-02227/",
     "source": "Циан",
     "description": "10 минут пешком до станции метро Селигерская. Общая площадь 36 м², комната 20 м², кухня 10 м². Стиральная машина, холодильник, балкон, тихий зеленый двор. Рядом парк им. Святослава Федорова и торговые центры.",
-    "updated_at": "2026-11-20 15:10",
-    "score": 93,
-    "photo": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 16:10",
+    "score": 93
   },
   {
     "id": "cian-angarskaya-51k2",
@@ -187,15 +179,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80"
+      "photos/angarskaya-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-angarskaya-ulica/",
+    "photo": "photos/angarskaya-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-angarskaya-ulica-02231/",
     "source": "Циан",
-    "description": "Качественный дом серии П-44Т рядом с парком «Ангарские пруды». До метро Яхромская 12 минут пешком. 11-й этаж, свежий ремонт, стиральная машина LG, современная кухня, балкон с видом на зеленую зону.",
-    "updated_at": "2026-11-20 14:50",
-    "score": 88,
-    "photo": "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&auto=format&fit=crop&q=80"
+    "description": "Качественный дом серии П-44Т рядом с парком «Ангарские пруды». До метро Яхромская 12 минут пешком. 11-й этаж, свежий ремонт, стиральная машина, современная кухня, балкон с видом на зеленую зону.",
+    "updated_at": "2026-11-20 15:50",
+    "score": 88
   },
   {
     "id": "cian-keramichesky-45k2",
@@ -215,15 +206,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80"
+      "photos/keramichesky-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-keramicheskij-proezd/",
+    "photo": "photos/keramichesky-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-keramicheskiy-proezd-021171/",
     "source": "Циан",
     "description": "Очень выгодное предложение в 9 минутах пешком от станции МЦД Дегунино. Тихий двор, чистый подъезд, стиральная машина, холодильник, диван-кровать, балкон застеклен. Длительный срок аренды.",
-    "updated_at": "2026-11-20 14:20",
-    "score": 97,
-    "photo": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 15:30",
+    "score": 97
   },
   {
     "id": "cian-korovinskoe-12",
@@ -243,15 +233,14 @@
     "dishwasher": true,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop&q=80"
+      "photos/korovinskoe-2.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-korovinskoe-shosse/",
+    "photo": "photos/korovinskoe-2.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-korovinskoe-shosse-02227/",
     "source": "Циан",
     "description": "Новый жилой дом 2024 года постройки! Высокий 15-й этаж, современная входная группа. В квартире сделан качественный евроремонт: встроенная техника, посудомоечная машина, стиральная машина, кондиционер. 11 минут до метро Селигерская.",
-    "updated_at": "2026-11-20 13:50",
-    "score": 90,
-    "photo": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 15:10",
+    "score": 90
   },
   {
     "id": "cian-ivana-susanina-6",
@@ -271,15 +260,14 @@
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&auto=format&fit=crop&q=80"
+      "photos/susanina-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-ulica-ivana-susanina/",
+    "photo": "photos/susanina-1.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-ulica-ivana-susanina-02235/",
     "source": "Циан",
     "description": "Ухоженная светлая квартира в доме серии П-44Т на улице Ивана Сусанина. 12 минут пешком до станции метро Селигерская. Стиральная машина, современная двуспальная кровать, встроенный кухонный гарнитур, остекленная лоджия.",
-    "updated_at": "2026-11-20 13:15",
-    "score": 87,
-    "photo": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 14:50",
+    "score": 87
   },
   {
     "id": "cian-deguninskaya-7",
@@ -299,42 +287,40 @@
     "dishwasher": true,
     "balcony": false,
     "photos": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80"
+      "photos/deguninskaya-2.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-deguninskaya-ulica/",
+    "photo": "photos/deguninskaya-2.jpg",
+    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru-moskva-deguninskaya-ulica-02226/",
     "source": "Циан",
     "description": "ЖК «Любовь и Голуби» в 9 минутах пешком от м. Селигерская. Компактная современная студия с дизайнерской отделкой и полным комплектом техники (стиралка, посудомойка, варочная панель). Охрана, презентабельное лобби.",
-    "updated_at": "2026-11-20 12:40",
-    "score": 92,
-    "photo": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80"
+    "updated_at": "2026-11-20 14:30",
+    "score": 92
   },
   {
-    "id": "cian-dubninskaya-15k1",
-    "title": "1-комн. квартира, 44.0 м², 7/14 эт.",
-    "district": "Восточное Дегунино",
-    "address": "Дубнинская ул., 15к1",
-    "price": 57000,
-    "deposit": 57000,
+    "id": "cian-taldomskaya-11k1",
+    "title": "1-комн. квартира, 38.5 м², 6/16 эт.",
+    "district": "Западное Дегунино",
+    "address": "Талдомская ул., 11к1",
+    "price": 52000,
+    "deposit": 52000,
     "commission": 0,
-    "area": 44.0,
-    "floor": "7/14",
-    "metro": "Верхние Лихоборы",
-    "metro_time": 14,
+    "area": 38.5,
+    "floor": "6/16",
+    "metro": "Грачёвская (МЦД-3)",
+    "metro_time": 8,
     "metro_type": "пешком",
-    "repair": "Косметический",
+    "repair": "Евроремонт",
     "washing_machine": true,
     "dishwasher": false,
     "balcony": true,
     "photos": [
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+      "photos/taldomskaya-1.jpg"
     ],
-    "url": "https://www.cian.ru/snyat-1-komnatnuyu-kvartiru/moskva-dubninskaya-ulica/",
+    "photo": "photos/taldomskaya-1.jpg",
+    "url": "https://www.cian.ru/snyat-kvartiru-moskva-taldomskaya-ulica-022227/",
     "source": "Циан (Собственник)",
-    "description": "Без комиссии! Очень большая 1-комнатная квартира 44 м² (жилая комната 21 м², кухня 10 м², лоджия 6 м²). Стиральная машина, кондиционер, гардеробная. Пешая доступность до метро Верхние Лихоборы (14 мин) и платформы Дегунино.",
-    "updated_at": "2026-11-20 11:50",
-    "score": 94,
-    "photo": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&auto=format&fit=crop&q=80"
+    "description": "Без комиссии! Уютная 1-комнатная квартира на Талдомской улице. 8 минут пешком до станции Грачёвская или 12 минут до метро Яхромская. Стиральная машина, современная мебель, кондиционер, балкон.",
+    "updated_at": "2026-11-20 14:00",
+    "score": 95
   }
 ]
