@@ -1,0 +1,82 @@
+name: Check Cian Flats and Notify Telegram
+
+on:
+  schedule:
+    # Запуск проверки каждый час
+    - cron: '0 * * * *'
+  workflow_dispatch: # Возможность ручного запуска кнопкой
+
+jobs:
+  check_and_notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Check flats and notify
+        env:
+          TELEGRAM_TOKEN: "9271631223:AAGaJ8w9kbFIdaT8G3rMgMMdvD5tdlFQaLA"
+        run: |
+          python -c "
+          import requests
+          import os
+          import json
+
+          token = os.environ.get('TELEGRAM_TOKEN')
+          if not token:
+              print('No token provided')
+              exit(0)
+
+          # 1. Получаем chat_id пользователя из последних сообщений боту
+          res = requests.get(f'https://api.telegram.org/bot{token}/getUpdates').json()
+          chat_ids = set()
+          if 'result' in res:
+              for item in res['result']:
+                  if 'message' in item:
+                      chat_ids.add(item['message']['chat']['id'])
+
+          print(f'Found subscribers: {chat_ids}')
+
+          # Загружаем квартиры
+          with open('flats_data.json', 'r', encoding='utf-8') as f:
+              flats = json.load(f)
+
+          flats.sort(key=lambda x: x.get('score', 0), reverse=True)
+          top_flat = flats[0] if flats else None
+
+          # Отправляем приветственное сообщение и сводку подписавшимся
+          for cid in chat_ids:
+              welcome = (
+                  '🏠 *Реестр квартир Дегунино (Циан)* активирован!\n\n'
+                  'Вы успешно подписаны на обновления по вашим фильтрам:\n'
+                  '• 1-комнатные квартиры до 70 000 ₽\n'
+                  '• Пешком до метро ≤ 15 минут\n'
+                  '• Обязательно стиральная машина\n\n'
+                  f'🌟 *Топ вариант сейчас:*\n'
+                  f'*{top_flat[\"title\"]}* — *{top_flat[\"price\"]:,} ₽/мес*\n'
+                  f'📍 {top_flat[\"address\"]} (м. {top_flat[\"metro\"]}, {top_flat[\"metro_time\"]} мин)\n\n'
+                  '📱 *Интерактивный дашборд:*\nhttps://xinosss.github.io/degunino-rent/'
+              )
+              payload = {
+                  'chat_id': cid,
+                  'text': welcome,
+                  'parse_mode': 'Markdown',
+                  'reply_markup': {
+                      'inline_keyboard': [[
+                          {'text': '🌐 Открыть Реестр', 'url': 'https://xinosss.github.io/degunino-rent/'},
+                          {'text': '🔗 На Циан', 'url': top_flat['url']}
+                      ]]
+                  }
+              }
+              requests.post(f'https://api.telegram.org/bot{token}/sendMessage', json=payload)
+              print(f'Notification sent to {cid}')
+          "
